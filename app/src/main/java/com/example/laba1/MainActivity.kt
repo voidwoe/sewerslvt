@@ -18,3 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+fun main() {
+    println("Hello world!")
+}
